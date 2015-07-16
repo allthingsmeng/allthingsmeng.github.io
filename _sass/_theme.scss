@@ -326,30 +326,30 @@ a.sidebar-nav-item:focus {
 
 
 /* MENG */
-.theme-base-meng .sidebar {
-  background-color: antiquewhite;
-  color: #000;
-  a {
+.theme-base-meng {
+  .sidebar {
+    background-color: antiquewhite;
     color: #000;
-  }
-}
-
-.theme-base-0f .content a,
-.theme-base-0f .related-posts li a:hover {
-  color: #8f5536;
-}
-
-a {
-  color: #2eaebb;
-  text-decoration: none;
-
-  // `:focus` is linked to `:hover` for basic accessibility
-  &:hover,
-  &:focus {
-    text-decoration: underline;
+    a {
+      color: #000;
+    }
+    .link {
+      color: #2eaebb;
+    }
   }
 
-  strong {
-    color: inherit;
+  a, .link {
+    color: #2eaebb;
+    text-decoration: none;
+
+    // `:focus` is linked to `:hover` for basic accessibility
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
+
+    strong {
+      color: inherit;
+    }
   }
 }
