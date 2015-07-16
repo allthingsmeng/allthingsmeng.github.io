@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body class="theme-base-meng">
+
+    {% include sidebar.html %}
+
+    {% if page.url == "/" %}
+    <div class="content container index-list">
+    {% else if %}
+    <div class="content container">
+    {% endif %}
+      {{ content }}
+    </div>
+
+
+  </body>
+</html>
