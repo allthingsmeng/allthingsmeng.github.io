@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Meng
 tagline:          'A site for sore eyes & portfolio of Michelle Nguyen'
-description:      'My name is Michelle Nguyen but you can call me <em>Meng</em>.<br /><br />I have a passion for design, illustration and animation. I love to draw comics, cartoons and random people on the bus.'
+description:      'My name is Michelle Nguyen but you can call me <a class="link" href="http://twitter.com/allthingsmeng" target="_blank">Meng</a>.<br /><br />I have a passion for design, illustration and animation. I love to draw comics, cartoons and random people on the bus.'
 url:              http://michellemeng.com
 baseurl:          /
 host: 0.0.0.0
