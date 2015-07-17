@@ -8,4 +8,4 @@ I used the audio from Swingers to animate the characters from Trent's analogy of
 
 ![](/public/img/claws-fangs/bear-sketch2_11.jpg)
 ![](/public/img/claws-fangs/bear-sketch.jpg)
-<iframe src="http://player.vimeo.com/video/53986579?title=0&byline=0&portrait=0&badge=0" width="700" height="460" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe class="video-media" src="http://player.vimeo.com/video/53986579?title=0&byline=0&portrait=0&badge=0" width="700" height="460" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>

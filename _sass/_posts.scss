@@ -73,3 +73,11 @@
         width:100%;
     }
 }
+
+.video-media {
+  width:100%;
+  height:auto;
+  @media (min-width: 48em) {
+    height:460px;
+  }
+}

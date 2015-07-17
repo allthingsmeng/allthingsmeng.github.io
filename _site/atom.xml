@@ -4,7 +4,7 @@
  <title>Meng</title>
  <link href="http://michellemeng.com/atom.xml" rel="self"/>
  <link href="http://michellemeng.com/"/>
- <updated>2015-07-16T20:32:34-07:00</updated>
+ <updated>2015-07-16T20:57:01-07:00</updated>
  <id>http://michellemeng.com</id>
  <author>
    <name>Michelle Meng Nguyen</name>
@@ -54,7 +54,7 @@
 
 &lt;p&gt;Using the footage that interns have shot the previous week, I along with other students, we individually edited our own pieces to potentially be for Rickshaw Bagwork&amp;#39;s promo - and mine was chosen!&lt;/p&gt;
 
-&lt;iframe src=&quot;//player.vimeo.com/video/78358742&quot; width=&quot;700&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe class=&quot;video-media&quot; src=&quot;//player.vimeo.com/video/78358742&quot; width=&quot;700&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </content>
  </entry>
  
@@ -95,7 +95,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/public/img/claws-fangs/bear-sketch2_11.jpg&quot; alt=&quot;&quot;&gt;
 &lt;img src=&quot;/public/img/claws-fangs/bear-sketch.jpg&quot; alt=&quot;&quot;&gt;
-&lt;iframe src=&quot;http://player.vimeo.com/video/53986579?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&quot; width=&quot;700&quot; height=&quot;460&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe class=&quot;video-media&quot; src=&quot;http://player.vimeo.com/video/53986579?title=0&amp;byline=0&amp;portrait=0&amp;badge=0&quot; width=&quot;700&quot; height=&quot;460&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -106,7 +106,7 @@
    <id>http://michellemeng.com/2012/10/05/motion-graphics</id>
    <content type="html">&lt;p&gt;This is a piece I did for school using motion typography with existing audio. Dave Chappelle is one of my top comedians and in this clip he speaks of the beloved Tenderloin district in San Francisco.&lt;/p&gt;
 
-&lt;iframe src=&quot;http://player.vimeo.com/video/9262768?portrait=0&quot; width=&quot;700&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;iframe class=&quot;video-media&quot; src=&quot;http://player.vimeo.com/video/9262768?portrait=0&quot; width=&quot;700&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
 </content>
  </entry>
  
@@ -130,15 +130,15 @@
    <id>http://michellemeng.com/2012/07/10/mini-animations</id>
    <content type="html">&lt;p&gt;A series of short animations I created for class assignments.&lt;/p&gt;
 
-&lt;iframe src=&quot;http://player.vimeo.com/video/33391742?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;700&quot; height=&quot;520&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;iframe class=&quot;video-media&quot; src=&quot;http://player.vimeo.com/video/33391742?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;700&quot; height=&quot;520&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Bones - animate a walking sequence and reaction.&lt;/p&gt;
 
-&lt;iframe src=&quot;http://player.vimeo.com/video/40100309?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;700&quot; height=&quot;520&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;iframe class=&quot;video-media&quot; src=&quot;http://player.vimeo.com/video/40100309?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;700&quot; height=&quot;520&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Cheese please - tell a story.&lt;/p&gt;
 
-&lt;iframe src=&quot;http://player.vimeo.com/video/31425422?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;700&quot; height=&quot;520&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;iframe class=&quot;video-media&quot; src=&quot;http://player.vimeo.com/video/31425422?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;700&quot; height=&quot;520&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Metamorphosisosisosis - animate metamorphosis.&lt;/p&gt;
 </content>
@@ -153,7 +153,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/public/img/mengtendo/strybrd2.jpg&quot; alt=&quot;Sketch1&quot;&gt;
 &lt;img src=&quot;/public/img/mengtendo/strybrd.jpg&quot; alt=&quot;Sketch2&quot;&gt;
-&lt;iframe src=&quot;http://player.vimeo.com/video/44493670&quot; width=&quot;700px&quot; height=500px&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;iframe class=&quot;video-media&quot; src=&quot;http://player.vimeo.com/video/44493670&quot; width=&quot;700px&quot; height=500px&quot; frameborder=&quot;0&quot; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 </content>
  </entry>
  

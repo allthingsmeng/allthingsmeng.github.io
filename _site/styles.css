@@ -540,6 +540,13 @@ hr {
 .post-media iframe {
   width: 100%; }
 
+.video-media {
+  width: 100%;
+  height: auto; }
+  @media (min-width: 48em) {
+    .video-media {
+      height: 460px; } }
+
 .pagination {
   overflow: hidden;
   color: #ccc;
@@ -664,10 +671,13 @@ body {
   margin: 0;
   padding: 0;
   display: flex;
-  justify-content: space-around; }
+  display: -webkit-flex;
+  justify-content: space-around;
+  -webkit-justify-content: space-around; }
   @media (min-width: 48em) {
     .site-nav {
-      justify-content: space-between; } }
+      justify-content: space-between;
+      -webkit-justify-content: space-between; } }
 
 /* Sidebar nav */
 .sidebar-nav {

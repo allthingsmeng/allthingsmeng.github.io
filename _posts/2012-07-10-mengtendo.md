@@ -7,4 +7,4 @@ Our final project in my Animation II class was to animate sound effects. After s
 
 ![Sketch1](/public/img/mengtendo/strybrd2.jpg)
 ![Sketch2](/public/img/mengtendo/strybrd.jpg)
-<iframe src="http://player.vimeo.com/video/44493670" width="700px" height=500px" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe class="video-media" src="http://player.vimeo.com/video/44493670" width="700px" height=500px" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
