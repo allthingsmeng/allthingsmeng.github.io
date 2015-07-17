@@ -168,14 +168,17 @@ a.sidebar-nav-item:focus {
 
  .other-posts {
      margin-top: 2em;
-     display:inline-flex;
+     display: flex;
+     display: -webkit-flex;
      flex-wrap: wrap;
+     -webkit-flex-wrap: wrap;
      justify-content: space-around;
+     -webkit-justify-content: space-around;
 
      .other-post{
+       width:46%;
          filter: grayscale(100%);
          -webkit-filter: grayscale(100%);
-         width:46%;
          &:hover {
              filter: grayscale(0%);
              -webkit-filter: grayscale(0%);

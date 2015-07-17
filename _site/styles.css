@@ -46,12 +46,12 @@ figure {
   margin: 0;
   padding: 0; }
 
-a {
+a, .link {
   color: #268bd2;
   text-decoration: none; }
-  a:hover, a:focus {
+  a:hover, a:focus, .link:hover, .link:focus {
     text-decoration: underline; }
-  a strong {
+  a strong, .link strong {
     color: inherit; }
 
 img {
@@ -627,9 +627,6 @@ body {
     width: 18rem;
     text-align: left; } }
 /* Sidebar links */
-.sidebar a {
-  color: #fff; }
-
 /* About section */
 .sidebar-about .profile_photo {
   background-image: url(https://lh3.googleusercontent.com/D3GlFfvAyoH4MshO9PjuaCU7Khs31jQPxx7560yePrTI=w730-h972-no);
@@ -715,13 +712,16 @@ a.sidebar-nav-item:focus {
 
 .other-posts {
   margin-top: 2em;
-  display: inline-flex;
+  display: flex;
+  display: -webkit-flex;
   flex-wrap: wrap;
-  justify-content: space-around; }
+  -webkit-flex-wrap: wrap;
+  justify-content: space-around;
+  -webkit-justify-content: space-around; }
   .other-posts .other-post {
+    width: 46%;
     filter: grayscale(100%);
-    -webkit-filter: grayscale(100%);
-    width: 46%; }
+    -webkit-filter: grayscale(100%); }
     .other-posts .other-post:hover {
       filter: grayscale(0%);
       -webkit-filter: grayscale(0%); }
@@ -840,15 +840,12 @@ a.sidebar-nav-item:focus {
   color: #000; }
   .theme-base-meng .sidebar a {
     color: #000; }
-
-.theme-base-0f .content a,
-.theme-base-0f .related-posts li a:hover {
-  color: #8f5536; }
-
-a {
+  .theme-base-meng .sidebar .link {
+    color: #2eaebb; }
+.theme-base-meng a, .theme-base-meng .link {
   color: #2eaebb;
   text-decoration: none; }
-  a:hover, a:focus {
+  .theme-base-meng a:hover, .theme-base-meng a:focus, .theme-base-meng .link:hover, .theme-base-meng .link:focus {
     text-decoration: underline; }
-  a strong {
+  .theme-base-meng a strong, .theme-base-meng .link strong {
     color: inherit; }
