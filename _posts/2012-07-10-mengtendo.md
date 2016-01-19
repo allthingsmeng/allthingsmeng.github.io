@@ -2,6 +2,7 @@
 layout: post
 title: Mengtendo
 hero-img: "prt_700x400_mengtendo.png"
+permalink: /mengtendo/
 ---
 Our final project in my Animation II class was to animate sound effects. After scoping the internet, I came across a ton of game-related sound effects that gave me a rush of nostalgia. Right then I knew exactly to do, re-create the old Nintendo role-playing-games that I grew up with. Turn up your speakers!
 

@@ -2,6 +2,7 @@
 layout: post
 title: Mini Animations
 hero-img: "prt_700x400_animations.png"
+permalink: /animations/
 ---
 
 A series of short animations I created for class assignments.

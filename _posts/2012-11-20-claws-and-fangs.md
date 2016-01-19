@@ -2,6 +2,7 @@
 layout: post
 title: Claws and Fangs
 hero-img: "prt_700x400_claws-fangs.jpg"
+permalink: /claws-fangs/
 ---
 
 I used the audio from Swingers to animate the characters from Trent's analogy of Mike's lack of dating skills. It's probably one of my favorite parts from the movie.<br><br />

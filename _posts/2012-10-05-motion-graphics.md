@@ -2,6 +2,7 @@
 layout: post
 title: Motion Graphics
 hero-img: "prt_700x400_motion.png"
+permalink: /motion-graphics/
 ---
 
 This is a piece I did for school using motion typography with existing audio. Dave Chappelle is one of my top comedians and I laughed the entire time I was editing. In this clip he speaks of the beloved Tenderloin district in San Francisco, where I was raised half my life.
