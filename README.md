@@ -13,3 +13,7 @@
 - ls /usr/local/bin/ (shows what terminal applications you have)
 - [command] --help (shows what the app can do
 - ~ / _____ (my current user directory)
+- jekyll serve --watch (activates local server on machine)
+
+# Lightbox Pop Up images
+- http://lokeshdhakar.com/projects/lightbox2/#getting-started
