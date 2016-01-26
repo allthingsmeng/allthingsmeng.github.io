@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Wikimedia
-hero-img: "prt_700x400_swank.jpg"
+hero-img: "prt_700x400_wikimedia.png"
 permalink: /wikimedia/
 ---
 
 As a design fellow at Wikimedia Foundation, I worked on user interface standardization efforts which involved detailing on iconography and UI patterns.
 
-I was also able to dip into assisting where I could such as the design of the <a href="http://store.wikimedia.org/" target="_blank">Wikimedia Store</a>, merchandising, and the onboarding experience of Visual Editor, a new tool for editing Wikipedia.
+I was also able to assist on the design of the <a href="http://store.wikimedia.org/" target="_blank">Wikimedia Store</a>, merchandising, and the onboarding experience of <a href="https://en.wikipedia.org/wiki/Wikipedia:VisualEditor" target="_blank">Visual Editor</a>.
 
-<a href="https://en.wikipedia.org/wiki/Wikipedia:VisualEditor" target="_blank">Visual Editor</a> was introduced to make editing easier for new editors and those unfamiliar with wiki markup. And with new tools must come instructions for our users.
+Visual Editor was introduced to make editing easier for new editors and for those unfamiliar with wiki markup. So with new tools must come instructions for our users! I created these animations as a fun and informative way to reinforce what they can do with their articles.
 
 <a href="/public/img/wikimedia/welcome.gif" data-lightbox="Onboard">
   <img src="/public/img/wikimedia/welcome.gif" alt="Welcome" />
